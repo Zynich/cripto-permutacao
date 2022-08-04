@@ -1,6 +1,6 @@
 ### Segurança de Sistema -  Criptografia Permutação
 
-#####Abaixo algumas informações sobre o código
+#### Abaixo algumas informações sobre o código
 
 - Esse código recebe uma frase para criptograr, então recebe uma chave e uma sequência númerica de 3 digitos(senha), que irá permutar a frase;
 - No inicio do código o usuário deve informar se deseja criptograr ou descritografar a frase caso exista;
